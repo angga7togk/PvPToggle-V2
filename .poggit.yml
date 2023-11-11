@@ -5,4 +5,6 @@ branches:
 projects:
   PvPToggle-V2:
     path: ""
+  icon:
+    path: "swords.png"
 ...
