@@ -23,8 +23,8 @@ PvPToggle is a PocketMine plugin designed to allow players to toggle their PvP m
 - Use `/pvpt {player}` to toggle PvP mode for another player (requires appropriate permissions).
 
 ## Permissions
-- `pvptoggle.command.toggle` - Allows using the `/pvpt` command for yourself.
-- `pvptoggle.command.toggle.other` - Allows using the `/pvpt {player}` command for other players.
+- `pvptoggle.command` - Allows using the `/pvpt` command for yourself.
+- `pvptoggle.command.staff` - Allows using the `/pvpt {player}` command for other players.
 
 ## Configuration
 The plugin supports multiple languages. You can add your own language by editing the `language.yml` file.
