@@ -1,0 +1,8 @@
+# Prefix Message
+prefix: "§6[PvP Toggle] §r"
+
+#Language
+# | English = en
+# | Indonesian = id
+#You can add your own language in language.yml
+language: en

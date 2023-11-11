@@ -1,0 +1,21 @@
+# Indonesian
+id:
+  player-notfound: "§cPemain {player} tidak ditemukan!"
+  off-pvp-other: "§eBerhasil mematikan PvPToggle: {player}"
+  on-pvp-other: "§aBerhasil menyalakan PvPToggle: {player}"
+  off-pvp-self: "§eBerhasil mematikan PvPToggle."
+  on-pvp-self: "§aBerhasil menyalakan PvPToggle."
+  use-cmd-in-game: "§cGunakan perintah ini di dalam game!"
+  pvpt-on-1: "§cKamu dalam mode PvP toggle."
+  pvpt-on-2: "§c{player} sedang dalam mode PvP toggle."
+
+# English
+en:
+  player-notfound: "§cPlayer {player} not found!"
+  off-pvp-other: "§eSuccessfully turned off PvPToggle for {player}"
+  on-pvp-other: "§aSuccessfully turned on PvPToggle for {player}"
+  off-pvp-self: "§eSuccessfully turned off PvPToggle."
+  on-pvp-self: "§aSuccessfully turned on PvPToggle."
+  use-cmd-in-game: "§cUse this command in the game!"
+  pvpt-on-1: "§cYou are in PvP toggle mode."
+  pvpt-on-2: "§c{player} is in PvP toggle mode."

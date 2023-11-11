@@ -1,0 +1,15 @@
+---
+name: PvPToggle
+main: angga7togk\pvptoggle\PvPToggle
+version: 1.0.0
+api:
+- 4.0.0
+- 5.0.0
+author: Angga7Togk
+
+permissions:
+  pvptoggle.command:
+    default: true
+  pvptoggle.command.staff:
+    default: op
+...
