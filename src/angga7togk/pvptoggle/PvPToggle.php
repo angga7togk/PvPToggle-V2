@@ -28,6 +28,6 @@ class PvPToggle extends PluginBase
 
 
         $this->getServer()->getPluginManager()->registerEvents(new Listeners($this), $this);
-        $this->getServer()->getCommandMap()->register("pvpt", new Commands($this));
+        $this->getServer()->getCommandMap()->register("PvPToggle", new Commands($this));
     }
 }
